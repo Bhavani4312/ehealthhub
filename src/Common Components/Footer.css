@@ -1,0 +1,20 @@
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    height: 60px;
+    width: 100%;
+    text-align: center;
+    background-color: #afe2e2;
+   justify-content: space-evenly;
+    
+}
+.footer-center h1{
+    font-size: 30px;
+    color: black;
+}
+.footer-center{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}

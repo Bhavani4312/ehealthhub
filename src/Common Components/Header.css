@@ -1,0 +1,32 @@
+.header{
+ display: flex;
+ align-items: center;
+ justify-content: space-between;
+ height: 60px;
+ width: 100;
+ background-color: #afe2e2;
+ top: 0;
+ cursor: pointer;
+ color: white;
+}
+.icons{
+    
+    
+    display: inline-flex;
+    font-size: 20px;
+    justify-content: space-between;
+    padding: 0 2rem;
+    margin: 10px 20px;
+    
+}
+.icons li{
+    display: inline-block;
+    list-style: none;
+}
+
+.icons a{
+    text-decoration: none;
+    color: white;
+    padding: 0px 30px;
+    font-size: 18px;
+}
